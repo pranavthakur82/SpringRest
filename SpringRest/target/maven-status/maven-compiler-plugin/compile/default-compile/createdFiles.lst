@@ -1,6 +1,0 @@
-net/viralpatel/spring/controller/HelloController.class
-net/viralpatel/spring/controller/CustomerRestController.class
-net/viralpatel/spring/dao/CustomerDAO.class
-net/viralpatel/spring/config/AppConfig.class
-net/viralpatel/spring/model/Customer.class
-net/viralpatel/spring/config/AppInitializer.class
